@@ -371,3 +371,5 @@ identifier.sqlite
 
 # Dev certs
 .certs
+# Deployment-specific state (random Azure resource-name suffix)
+infra/.suffix
