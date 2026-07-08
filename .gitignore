@@ -373,3 +373,6 @@ identifier.sqlite
 .certs
 # Deployment-specific state (random Azure resource-name suffix)
 infra/.suffix
+
+# Local interview notes — never commit
+MORNING.md
